@@ -1,0 +1,7 @@
+{
+  "name": "Clarity Connect",
+  "description": "An accessibility-focused communication app designed for elderly users with low vision, prioritizing clarity, voice interaction, and reassurance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
